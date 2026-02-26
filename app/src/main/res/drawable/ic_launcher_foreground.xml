@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 麦克风主体 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 C48,28 43,33 43,39 L43,54 C43,60 48,65 54,65 C60,65 65,60 65,54 L65,39 C65,33 60,28 54,28 Z"/>
+    <!-- 麦克风底座弧线 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,54 C38,63.9 45.1,72 54,72 C62.9,72 70,63.9 70,54"/>
+    <!-- 支架竖线 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,72 L54,80"/>
+    <!-- 底座横线 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,80 L64,80"/>
+    <!-- 音波左 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:alpha="0.7"
+        android:pathData="M33,46 C31,49 31,58 33,62"/>
+    <!-- 音波右 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:alpha="0.7"
+        android:pathData="M75,46 C77,49 77,58 75,62"/>
+</vector>
